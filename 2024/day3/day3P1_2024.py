@@ -1,5 +1,4 @@
 import re
-from functools import reduce
 
 def readInput():
    with open("in.txt", "r") as file:
